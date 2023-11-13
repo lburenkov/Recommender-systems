@@ -1,0 +1,69 @@
+---
+title: "Recommended systems"
+author: "Laura Burenkov"
+date: "2023-11-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+Your task is to analyze an existing recommender system that you find interesting.
+IPSY aims to provide personalized beauty product recommendations and enhance user satisfaction, driving subscription retention and attracting new customers.
+
+
+
+## Scenario Desing analysis Ipsy
+Who are the target users? 
+Individuals passionate about beauty products, trends, and personalized experiences.
+
+What are their key goals? 
+-Subscription retention
+-Customer acquisition
+-Brand loyalty
+
+How can you accomplish those? 
+-Algorithmic Personalization:Implement advanced recommendation algorithms based on user preferences, feedback, and beauty quiz results.
+
+-Community Engagement: Foster a vibrant beauty community within the IPSY platform.
+
+-Transparency and Trust: Build trust by allowing users insights into how their personalized recommendations are generated.
+
+-Marketing Strategies: Develop compelling marketing campaigns highlighting the uniqueness and benefits of IPSY's personalized beauty subscription.
+
+
+## Scenario Desing analysis Ipsy's users
+Who are the target users?
+-Beauty Enthusiasts: Individuals who subscribe to IPSY's beauty box.
+
+What are their key goals? 
+
+-Personalized Beauty Experience: Receive beauty products tailored to individual preferences and needs.
+
+-Community Engagement: Share beauty tips, product experiences, and recommendations within the IPSY community.
+
+-Value and Satisfaction: Feel satisfied with the monthly beauty box in terms of product quality and variety.
+
+-Educational Content: Access educational content, tutorials, and beauty tips to enhance beauty knowledge.
+
+How can you accomplish those? 
+-Beauty Quiz Customization: Provide options for users to fine-tune their preferences and provide more detailed information.
+
+-Interactive Community Features: Enhance community features to facilitate discussions, product reviews, and sharing of beauty routines.
+
+-Feedback Mechanisms: user-friendly mechanisms for providing feedback on received products.
+
+-Exclusive Access and Offers: loyalty programs or special offers for long-term subscribers.
+
+
+## Reverse engineering 
+-Subscription Algorithm: Understanding how Ipsy determines personalized beauty product recommendations for users. By using Data analytics tools, network traffic analysis  we could analyze user interactions, preferences, and historical data to infer the logic behind product recommendations.
+
+## Recommendations
+Enhanced User Profiling: Invest in advanced user profiling to capture nuanced preferences.
+Consider additional factors such as skin type, beauty goals, and favorite brands.
+
+
